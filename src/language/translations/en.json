@@ -1,0 +1,13 @@
+{
+  "bottomTab":{
+    "home": "Home",
+    "circles": "Circles",
+    "new": "New",
+    "chat": "Chat",
+    "profile": "Profile"
+  },
+  "main": {
+    "title": "Hello World"
+  }
+  
+}

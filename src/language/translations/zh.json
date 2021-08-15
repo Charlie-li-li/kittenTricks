@@ -1,0 +1,12 @@
+{
+  "bottomTab":{
+    "home": "首页",
+    "circles": "Circles",
+    "new": "New",
+    "chat": "Chat",
+    "profile": "Profile"
+  },
+  "main": {
+    "title": "你好，世界"
+  }
+}
